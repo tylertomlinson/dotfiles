@@ -3,9 +3,9 @@
 # --------- #
 
 alias cdt="cd ~/Turing"
+alias cdtp="cd ~/Turing/2module/projects/"
 alias ..="cd .."
 alias cl="clear"
-
 
 # --- #
 # git #
@@ -35,7 +35,6 @@ function gcm() {
   git commit -m "$args"
 }
 
-
 # ----- #
 # rails #
 # ----- #
@@ -48,7 +47,6 @@ alias drop= "bundle exec rake db:drop"
 alias migrate= "bundle exec rake db:migrate"
 alias load = "bundle exec rake db:schema:load"
 alias server= "bundle exec rails s"
-
 
 # ------ #
 # heroku #
