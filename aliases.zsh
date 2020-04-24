@@ -27,9 +27,10 @@ alias gl="git log --all --graph --decorate"      # detailed log
 alias gclean="git branch --merged master | ag -v '\* master' | xargs -n 1 git branch -d"
 
 cobm() {
-  git checkout master && pull && git checkout -b "$1"
+  git checkout master && git pull && git checkout -b "$1"
 }
 
+# commits... example: gcm This is a commit 
 function gcm() {
   args=$@
   git commit -m "$args"
