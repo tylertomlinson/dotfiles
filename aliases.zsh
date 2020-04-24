@@ -4,6 +4,9 @@
 
 alias cdt="cd ~/Turing"
 alias cdtp="cd ~/Turing/3module/projects/"
+alias cdtl="cd ~/Turing/3module/lessons/"
+alias cdtc="cd ~/Turing/3module/challenges/"
+alias cdts="cd ~/Turing/3module/sandbox/"
 alias ..="cd .."
 alias cl="clear"
 
