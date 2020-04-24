@@ -3,7 +3,7 @@
 # --------- #
 
 alias cdt="cd ~/Turing"
-alias cdtp="cd ~/Turing/2module/projects/"
+alias cdtp="cd ~/Turing/3module/projects/"
 alias ..="cd .."
 alias cl="clear"
 
