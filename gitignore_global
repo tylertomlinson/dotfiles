@@ -14,7 +14,6 @@
 *.ruby-version
 *.rbenv-version
 
-
 # OS generated files #
 ######################
 .DS_Store
@@ -28,7 +27,6 @@
 ehthumbs.db
 Thumbs.db
 desktop.ini
-
 
            # Ruby #
 ################################
@@ -44,8 +42,7 @@ desktop.ini
 /test/version_tmp/
 /tmp/
 
-
-          # Rails # 
+          # Rails #
 ################################
 
 # Ignore all logfiles and tempfiles #
@@ -53,7 +50,6 @@ desktop.ini
 /tmp/*
 !/log/.keep
 !/tmp/.keep
-
 
 # Unit Test / Coverage Reports #
 ################################
@@ -75,7 +71,3 @@ capybara-*.html
 rerun.txt
 pickle-email-*.html
 .byebug_history
-
-
-
-
