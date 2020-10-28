@@ -1,0 +1,7 @@
+[user]
+	name = Tyler Tomlinson
+	email = tyler@summarymedical.com
+[core]
+	excludesfile = /Users/tyler/.gitignore_global
+	editor = atom --wait
+	whitespace = -trailing-space
